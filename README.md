@@ -24,10 +24,10 @@
 
 Entre as tecnologias utilizadas, destaca-se:
 
-- [Styled Components](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [React Native v0.63](https://facebook.github.io/react-native/)
-- [Yarn](https://expo.io/)
+- [Yarn](https://yarnpkg.com/)
 
 
 ### 💻 Installation
