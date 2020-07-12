@@ -1,14 +1,12 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/pivpay-logo.png" width="250px" />
+    <img alt="picpay clone" title="#picpay clone" src=".github/picpay-logo.png" width="250px" />
 </h1>
+<p align="center">Picpay Clone - Interface feita em ReactNative</p>
 
 <p align="center">
   <a href="https://github.com/daviseares/status-code/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/daviseares/status-code">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/daviseares/picpay">
   </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-
   <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
 
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
@@ -19,7 +17,7 @@
 <p align="center">
   <img alt="Home" src=".github/home.png" width="20%">
    <img alt="Wallet" src=".github/wallet.png" width="20%">
-    <img alt="gif" src=".github/functionamento.gif" width="20%">
+    <img alt="gif" src="https://github.com/daviseares/picpay/blob/master/.github/funcionamento.gif" width="22%">
 </p>
 
 ## 🚀 Tecnologias
