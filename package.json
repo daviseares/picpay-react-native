@@ -24,7 +24,7 @@
     "styled-components": "^5.1.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.8.4",
+    "@babel/core": "^7.17.10",
     "@babel/runtime": "^7.8.4",
     "@react-native-community/eslint-config": "^1.1.0",
     "@types/jest": "^25.2.3",
